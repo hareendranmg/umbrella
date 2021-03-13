@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "128393483336",
+    "project_id": "hmg-umbrella",
+    "storage_bucket": "hmg-umbrella.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128393483336:android:643f3c51439bf56f23747d",
+        "android_client_info": {
+          "package_name": "com.konceptors.umbrella"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128393483336-eq4png149agb1veij1nnk1l6ubt07dke.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.konceptors.umbrella",
+            "certificate_hash": "97f13b79f125b4ca6d713a3a8e32981f29fd268f"
+          }
+        },
+        {
+          "client_id": "128393483336-p6hgrpfkms9s9vi5f829e82rj813v4g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp5XTcrvJBVLReSktnCX11Ut1O8dOfDoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128393483336-p6hgrpfkms9s9vi5f829e82rj813v4g3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
